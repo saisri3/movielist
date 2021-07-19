@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/temp-app/static/css/main.6c272e25.chunk.css",
+    "main.js": "/temp-app/static/js/main.b2e932aa.chunk.js",
+    "main.js.map": "/temp-app/static/js/main.b2e932aa.chunk.js.map",
+    "runtime-main.js": "/temp-app/static/js/runtime-main.325e0f93.js",
+    "runtime-main.js.map": "/temp-app/static/js/runtime-main.325e0f93.js.map",
+    "static/js/2.cba0735a.chunk.js": "/temp-app/static/js/2.cba0735a.chunk.js",
+    "static/js/2.cba0735a.chunk.js.map": "/temp-app/static/js/2.cba0735a.chunk.js.map",
+    "static/js/3.e52cb9f1.chunk.js": "/temp-app/static/js/3.e52cb9f1.chunk.js",
+    "static/js/3.e52cb9f1.chunk.js.map": "/temp-app/static/js/3.e52cb9f1.chunk.js.map",
+    "index.html": "/temp-app/index.html",
+    "static/css/main.6c272e25.chunk.css.map": "/temp-app/static/css/main.6c272e25.chunk.css.map",
+    "static/js/2.cba0735a.chunk.js.LICENSE.txt": "/temp-app/static/js/2.cba0735a.chunk.js.LICENSE.txt",
+    "static/media/hardcore.jpg": "/temp-app/static/media/hardcore.6829ebc1.jpg",
+    "static/media/logo.6ce24c58.svg": "/temp-app/static/media/logo.6ce24c58.svg",
+    "static/media/setitup.jpeg": "/temp-app/static/media/setitup.a95cd242.jpeg",
+    "static/media/starwars.jpeg": "/temp-app/static/media/starwars.59ca2726.jpeg",
+    "static/media/thecrown.jpeg": "/temp-app/static/media/thecrown.871e316c.jpeg",
+    "static/media/thesinner.jpg": "/temp-app/static/media/thesinner.f5d3b3c2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.325e0f93.js",
+    "static/js/2.cba0735a.chunk.js",
+    "static/css/main.6c272e25.chunk.css",
+    "static/js/main.b2e932aa.chunk.js"
+  ]
+}
