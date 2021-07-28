@@ -11,6 +11,6 @@ export function FilmDetails(props) {
             <p key={props.film.rating} className="rating">{props.film.rating }</p>
             <p key={props.film.duration} className="duration">{ props.film.duration}</p>
           </div>
-
+  
     )
 }

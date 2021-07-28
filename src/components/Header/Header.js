@@ -2,9 +2,9 @@
 import React from "react";
 import './Header.css'
 import { useState } from 'react';
-import arrow from '/home/saisri/temp-app/src/images/arrow.png'
 import Data from '../MOCK_DATA.json'
-import Search from "../Header/Search";
+import Sort from "./Sort";
+
 
  
  
@@ -18,13 +18,11 @@ const Header = () => {
         <p>RATING</p>
         <div >
           <p>DURATION</p>
-          <img
-            style={{ height: 25, cursor: "pointer" }}
-            className="arrow" src={arrow} alt="duration" />
+          <Sort />
+
+         
         </div>
-        <Search
-                
-        />
+       
              
       </div>
       
